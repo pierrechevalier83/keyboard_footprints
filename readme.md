@@ -8,7 +8,7 @@ There are some pre-existing libraries containing footprints that certain keyboar
 
 For this reason, I am curating here my own library of footprints, with the goal of being minimal, including as little silkscreen marking as possible.
 
-![Render](https://i.imgur.com/XwMlyyN.jpg)
+![Render](https://i.imgur.com/wvM1urM.jpg)
 
 Switches
 ---
@@ -24,6 +24,7 @@ From left to right, then top to bottom:
 Panelization
 ---
 * 2mm mousebite from the Panelization library
+* 2mm mousebite with space for a track
 
 Puck
 ---
