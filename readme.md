@@ -8,7 +8,7 @@ There are some pre-existing libraries containing footprints that certain keyboar
 
 For this reason, I am curating here my own library of footprints, with the goal of being minimal, including as little silkscreen marking as possible.
 
-![Render](https://i.imgur.com/wvM1urM.jpg)
+![Render](https://i.imgur.com/HBSXD0T.jpg)
 
 Switches
 ---
